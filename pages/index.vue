@@ -30,6 +30,9 @@
 									<li>No random spread</li>
 									<li>Crits on</li>
 								</ul>
+								<b><i><u>18+ ONLY! NO MINORS</u></i></b>
+								<br />
+								<br />
 								Open to girlkissers, estrogen gulpers, tryhards, boywives, furries, women, kitty girls, tf2 players, casuals, puppyboys, and so much more!
 								<br />
 								<br />
@@ -55,7 +58,7 @@
 import '98.css';
 
 useSeoMeta({
-	title: "tiny kitty's girl pound",
+	title: "tiny kitty's girl pound 18+",
 	ogTitle: "Tiny Kitty's Girl Pound",
 	description: "Official website for the tiny kitty girl pound Team Fortress 2 server: tf2.fluffycat.gay:19990",
 	ogDescription: "Official website for the tiny kitty girl pound Team Fortress 2 server: tf2.fluffycat.gay:19990",
