@@ -42,7 +42,7 @@ body {
 }
 
 .rainbow-text {
-	animation: rainbow-text 5s infinite;
+	animation: rainbow-text 5s infinite ease-in-out;
 }
 
 @keyframes rainbow-text {
@@ -50,19 +50,23 @@ body {
 		color: red;
 	}
 
-	25% {
+	20% {
 		color: orange;
 	}
 
-	50% {
+	40% {
 		color: green;
 	}
 
-	75% {
+	60% {
 		color: blue;
 	}
 
-	100% {
+	80% {
 		color: purple;
+	}
+
+	100% {
+		color: red;
 	}
 }

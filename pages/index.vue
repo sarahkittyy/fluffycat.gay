@@ -31,8 +31,16 @@
 									<li>Crits on</li>
 								</ul>
 								Open to girlkissers, estrogen gulpers, tryhards, boywives, furries, women, kitty girls, tf2 players, casuals, puppyboys, and so much more!
+								<br />
+								<br />
+								<b>Steam group:</b> <a class="font-tf2build rainbow-text" href="https://steamgroup.fluffycat.gay">steamgroup.fluffycat.gay</a>
+								<br />
+								<b>Discord group:</b> <a class="font-tf2build rainbow-text" href="https://discord.gg/tkgp">discord.gg/tkgp</a>
+								<br />
+								<div class="line-break" />
+								<a href="https://www.gametracker.com/server_info/51.81.23.47:19990/" target="_blank"><img src="https://cache.gametracker.com/server_info/51.81.23.47:19990/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
+								<a href="https://www.battlemetrics.com/servers/tf2/24249758"><img src="https://cdn.battlemetrics.com/b/horizontal500x80px/24249758.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700" /></a>
 							</div>
-									
 						</div>
 						<discord-widget />
 					</div>
@@ -87,6 +95,12 @@ import '98.css';
 .content {
 	width: 100%;
 	max-width: 1000px;
+}
+
+.line-break {
+	width: 100%;
+	border-bottom: 1px solid grey;
+	margin: 12px 0;
 }
 
 </style>
