@@ -54,6 +54,15 @@
 
 import '98.css';
 
+useSeoMeta({
+	title: "tiny kitty's girl pound",
+	ogTitle: "Tiny Kitty's Girl Pound",
+	description: "Official website for the tiny kitty girl pound Team Fortress 2 server: tf2.fluffycat.gay:19990",
+	ogDescription: "Official website for the tiny kitty girl pound Team Fortress 2 server: tf2.fluffycat.gay:19990",
+	ogImage: "/img/plush_atk.png",
+	twitterCard: "summary_large_image",
+})
+
 </script>
 
 <style lang="scss">
