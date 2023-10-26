@@ -1,0 +1,68 @@
+@font-face {
+	font-family: 'tf2Build';
+	src: url('/tf2build.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'tf2';
+	src: url('/tf2.ttf') format('truetype');
+}
+
+.font-tf2 {
+	font-family: 'tf2';
+}
+
+.font-tf2build {
+	font-family: 'tf2build';
+}
+
+
+body {
+	background: linear-gradient(135deg, rgba(189,224,254,1) 0%, rgba(255,200,221,1) 25%, rgba(255,255,255,1) 50%, rgba(255,175,204,1) 75%, rgba(162,210,255,1) 100%);
+}
+
+.icon {
+	vertical-align: middle;
+	height: 16px;
+}
+
+.grow-in {
+	animation: forwards grow-in 1.2s ease-in-out;
+}
+
+@keyframes grow-in {
+	0% {
+		transform-origin: top right;
+		transform: scale(0);
+	}
+
+	100% {
+		transform: scale(1.0);
+	}
+}
+
+.rainbow-text {
+	animation: rainbow-text 5s infinite;
+}
+
+@keyframes rainbow-text {
+	0% { 
+		color: red;
+	}
+
+	25% {
+		color: orange;
+	}
+
+	50% {
+		color: green;
+	}
+
+	75% {
+		color: blue;
+	}
+
+	100% {
+		color: purple;
+	}
+}
