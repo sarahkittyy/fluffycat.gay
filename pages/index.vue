@@ -33,9 +33,9 @@
 								Open to girlkissers, estrogen gulpers, tryhards, boywives, furries, women, kitty girls, tf2 players, casuals, puppyboys, and so much more!
 								<br />
 								<br />
-								<b>Steam group:</b> <a class="font-tf2build rainbow-text" href="https://steamgroup.fluffycat.gay">steamgroup.fluffycat.gay</a>
+								<img class="icon" src="/img/steam_logo.png" alt="steam logo" /> <b>Steam group:</b> <a class="font-tf2build rainbow-text" href="https://steamgroup.fluffycat.gay">steamgroup.fluffycat.gay</a>
 								<br />
-								<b>Discord group:</b> <a class="font-tf2build rainbow-text" href="https://discord.gg/tkgp">discord.gg/tkgp</a>
+								<img class="icon" src="/img/Discord_icon.png" alt="discord logo" /> <b>Discord group:</b> <a class="font-tf2build rainbow-text" href="https://discord.gg/tkgp">discord.gg/tkgp</a>
 								<br />
 								<div class="line-break" />
 								<a href="https://www.gametracker.com/server_info/51.81.23.47:19990/" target="_blank"><img src="https://cache.gametracker.com/server_info/51.81.23.47:19990/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
