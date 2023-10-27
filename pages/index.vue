@@ -39,14 +39,42 @@
 								<img class="icon" src="/img/steam_logo.png" alt="steam logo" /> <b>Steam group:</b> <a class="font-tf2build rainbow-text" href="https://steamgroup.fluffycat.gay">steamgroup.fluffycat.gay</a>
 								<br />
 								<img class="icon" src="/img/Discord_icon.png" alt="discord logo" /> <b>Discord group:</b> <a class="font-tf2build rainbow-text" href="https://discord.gg/tkgp">discord.gg/tkgp</a>
-								<br />
-								<div class="line-break" />
-								<a href="https://www.gametracker.com/server_info/51.81.23.47:19990/" target="_blank"><img src="https://cache.gametracker.com/server_info/51.81.23.47:19990/b_560_95_1.png" border="0" width="560" height="95" alt=""/></a>
-								<a href="https://www.battlemetrics.com/servers/tf2/24249758"><img src="https://cdn.battlemetrics.com/b/horizontal500x80px/24249758.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700" /></a>
 							</div>
 						</div>
 						<discord-widget />
 					</div>
+				</div>
+			</div>
+			<div class="window grow-in">
+				<div class="title-bar">
+					<span>
+						<img class="icon" src="/img/gametracker.ico" alt="gametracker logo" />
+						<span class="title-bar-text">gametracker</span>
+					</span>
+					<div class="title-bar-controls">
+						<button aria-label="Minimize"></button>
+						<button aria-label="Maximize"></button>
+						<button aria-label="Close"></button>
+					</div>
+				</div>
+				<div class="window-body">
+					<gametracker-widget />
+				</div>
+			</div>
+			<div class="window grow-in">
+				<div class="title-bar">
+					<span>
+						<img class="icon" src="/img/battlemetrics.jpg" alt="sick asf kitty" />
+						<span class="title-bar-text">battlemetrics</span>
+					</span>
+					<div class="title-bar-controls">
+						<button aria-label="Minimize"></button>
+						<button aria-label="Maximize"></button>
+						<button aria-label="Close"></button>
+					</div>
+				</div>
+				<div class="window-body">
+					<battlemetrics-widget />
 				</div>
 			</div>
 		</div>
@@ -84,7 +112,7 @@ useSeoMeta({
 }
 
 #intro {
-	width: 600px;
+	max-width: 600px;
 }
 
 #rules {
@@ -107,6 +135,14 @@ useSeoMeta({
 .content {
 	width: 100%;
 	max-width: 1000px;
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+
+	.window {
+		margin: 2px;
+	}
 }
 
 .line-break {
