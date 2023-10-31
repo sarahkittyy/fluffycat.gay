@@ -21,7 +21,7 @@
 						<div id="intro">
 							<span id="welcome" class="font-tf2build">haiiiii ^_^ hi!! hiiiiii &lt;3 haiiiiii hii :3 </span>
 							<div id="join" class="font-tf2build">
-								Join: <a class="rainbow-text" href="steam://connect/tf2.fluffycat.gay:19990">tf2.fluffycat.gay:19990</a>
+								Join: <a class="rainbow-text" href="steam://connect/tf2.fluffycat.gay">tf2.fluffycat.gay</a>
 							</div>
 							<div id="rules">
 								TINY KITTY GIRL POUND&apos;S REVOLUTIONARY FEATURES INCLUDE:
@@ -88,8 +88,8 @@ import '98.css';
 useSeoMeta({
 	title: "tiny kitty's girl pound 18+",
 	ogTitle: "Tiny Kitty's Girl Pound",
-	description: "Official website for the tiny kitty girl pound Team Fortress 2 server: tf2.fluffycat.gay:19990",
-	ogDescription: "Official website for the tiny kitty girl pound Team Fortress 2 server: tf2.fluffycat.gay:19990",
+	description: "Official website for the tiny kitty girl pound Team Fortress 2 server: tf2.fluffycat.gay",
+	ogDescription: "Official website for the tiny kitty girl pound Team Fortress 2 server: tf2.fluffycat.gay",
 	ogImage: "/img/plush_atk.png",
 	twitterCard: "summary_large_image",
 })
