@@ -22,6 +22,7 @@
 							<span id="welcome" class="font-tf2build">haiiiii ^_^ hi!! hiiiiii &lt;3 haiiiiii hii :3 </span>
 							<div id="join" class="font-tf2build">
 								Join: <a class="rainbow-text" href="steam://connect/tf2.fluffycat.gay">tf2.fluffycat.gay</a>
+								Alt: <a class="rainbow-text" href="steam://connect/tf3.fluffycat.gay">tf3.fluffycat.gay</a>
 							</div>
 							<div id="rules">
 								TINY KITTY GIRL POUND&apos;S REVOLUTIONARY FEATURES INCLUDE:
@@ -58,7 +59,7 @@
 					</div>
 				</div>
 				<div class="window-body">
-					<gametracker-widget />
+					<gametracker-widget-4 />
 				</div>
 			</div>
 			<div class="window grow-in">
@@ -74,7 +75,39 @@
 					</div>
 				</div>
 				<div class="window-body">
-					<battlemetrics-widget />
+					<battlemetrics-widget-4 />
+				</div>
+			</div>
+			<div class="window grow-in">
+				<div class="title-bar">
+					<span>
+						<img class="icon" src="/img/gametracker.ico" alt="gametracker logo" />
+						<span class="title-bar-text">gametracker</span>
+					</span>
+					<div class="title-bar-controls">
+						<button aria-label="Minimize"></button>
+						<button aria-label="Maximize"></button>
+						<button aria-label="Close"></button>
+					</div>
+				</div>
+				<div class="window-body">
+					<gametracker-widget-5 />
+				</div>
+			</div>
+			<div class="window grow-in">
+				<div class="title-bar">
+					<span>
+						<img class="icon" src="/img/battlemetrics.jpg" alt="sick asf kitty" />
+						<span class="title-bar-text">battlemetrics</span>
+					</span>
+					<div class="title-bar-controls">
+						<button aria-label="Minimize"></button>
+						<button aria-label="Maximize"></button>
+						<button aria-label="Close"></button>
+					</div>
+				</div>
+				<div class="window-body">
+					<battlemetrics-widget-5 />
 				</div>
 			</div>
 		</div>
