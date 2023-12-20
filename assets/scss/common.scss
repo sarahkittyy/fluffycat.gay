@@ -16,14 +16,11 @@
 	font-family: 'tf2build';
 }
 
-
 body {
-	background: linear-gradient(135deg, rgba(189,224,254,1) 0%, rgba(255,200,221,1) 25%, rgba(255,255,255,1) 50%, rgba(255,175,204,1) 75%, rgba(162,210,255,1) 100%);
-}
-
-.icon {
-	vertical-align: middle;
-	height: 16px;
+	// background: linear-gradient(135deg, rgba(189,224,254,1) 0%, rgba(255,200,221,1) 25%, rgba(255,255,255,1) 50%, rgba(255,175,204,1) 75%, rgba(162,210,255,1) 100%);
+	background: url('/img/bb.jpeg') no-repeat center center fixed;
+	background-size: cover;
+	background-color: #666;
 }
 
 .grow-in {
