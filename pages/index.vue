@@ -39,7 +39,7 @@ useSeoMeta({
 	title: "tiny kitty's girl pound 18+",
 	ogTitle: "Tiny Kitty's Girl Pound",
 	description: "Official website for the tiny kitty girl pound Team Fortress 2 server: tf2.fluffycat.gay",
-	ogDescription: "Official website for the tiny kitty girl pound Team Fortress 2 server: tf2.fluffycat.gayg",
+	ogDescription: "Official website for the tiny kitty girl pound Team Fortress 2 server: tf2.fluffycat.gay",
 	ogImage: "/img/plush_atk_big.png",
 	articleTag: ['tkgp', 'tf2', 'furry'],
 	twitterCard: "summary_large_image",
