@@ -4,8 +4,8 @@
 			<div id="nyan-cat" />
 			View kills, deaths, and other stats:
 		</h1>
-		<a class="statcat" href="http://stats4.fluffycat.gay">tkgp4<img src="img/plush_def.png" alt="tkgp4's stats" /></a>
-		<a class="statcat" href="http://stats5.fluffycat.gay"><img src="img/plush_atk.png" alt="tkgp5's stats" />tkgp5</a>
+		<a class="statcat" href="http://stats4.fluffycat.gay">tkgp4<img src="/img/plush_def.png" alt="tkgp4's stats" /></a>
+		<a class="statcat" href="http://stats5.fluffycat.gay"><img src="/img/plush_atk.png" alt="tkgp5's stats" />tkgp5</a>
 	</div>
 	<div class="line-break"></div>
 	<div class="bm-container">
@@ -41,7 +41,7 @@
 	height: 60px;
 
 	#nyan-cat {
-		background-image: url('img/cat-nyan-cat.gif');
+		background-image: url('/img/cat-nyan-cat.gif');
 		background-size: contain;
 		height: 64px;
 		width: 64px;
