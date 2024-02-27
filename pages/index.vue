@@ -67,6 +67,10 @@ function onMenuSelect(page: string) {
 	justify-content: center;
 }
 
+.window-body {
+	min-height: 800px;
+}
+
 .content {
 	width: 100%;
 	margin: 0 10%;
