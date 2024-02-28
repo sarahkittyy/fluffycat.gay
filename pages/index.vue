@@ -35,6 +35,13 @@
 
 import '98.css';
 
+useHead({
+	script: [{
+		src: "/js/oneko.js",
+		defer: true
+	}]
+})
+
 useSeoMeta({
 	title: "tiny kitty's girl pound 18+",
 	ogTitle: "Tiny Kitty's Girl Pound",
