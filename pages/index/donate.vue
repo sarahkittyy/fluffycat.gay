@@ -8,6 +8,7 @@
 			<paypal-donate />
 			<nfoservers-donate />
 			<trade-donate />
+			<span class="line-break" />
 			<cashapp-donate />
 			<discord-donate />
 		</div>
@@ -23,6 +24,10 @@
 	flex-wrap: wrap;
 	
 	width: 90%;
+}
+
+.line-break {
+	flex-basis: 100%;
 }
 
 #content {
