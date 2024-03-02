@@ -55,7 +55,8 @@ useSeoMeta({
 const subpage = ref('Home');
 const paths: Record<string, string> = {
 	'Home': '/',
-	'Stats': '/stats'
+	'Stats': '/stats',
+	'Donate': '/donate',
 };
 
 function onMenuSelect(page: string) {

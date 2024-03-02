@@ -43,6 +43,8 @@
 	#nyan-cat {
 		background-image: url('/img/cat-nyan-cat.gif');
 		background-size: contain;
+		background-repeat: no-repeat;
+		flex-shrink: 0;
 		height: 64px;
 		width: 64px;
 	}

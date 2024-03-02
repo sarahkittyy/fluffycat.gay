@@ -30,6 +30,10 @@ const links = [
 		icon: '/img/battlemetrics.jpg',
 	},
 	{
+		name: 'Donate',
+		icon: '/img/revolving-hearts-emoji.png',
+	},
+	{
 		name: 'Discord',
 		icon: '/img/Discord_icon.png',
 		link: 'https://discord.gg/tkgp'
