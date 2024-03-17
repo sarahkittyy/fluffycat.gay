@@ -1,8 +1,11 @@
 <template>
 	<div id="content">
 		<div id="header">
-			<span class="rainbow-text h1">Help fund TKGP!! <icon :size="40" src="/img/plush_def.png"/></span>
-			<span class="h2">Will purr for funds <icon :size="32" src="/img/plush_atk.png" /></span>
+			<div id="header-text">
+				<div class="rainbow-text h1">Help fund TKGP!! <icon :size="40" src="/img/plush_def.png"/></div>
+				<div class="h2">Will purr for funds <icon :size="32" src="/img/plush_atk.png" /></div>
+			</div>
+			<a href="/donate" ><img src="/img/bigpaws.gif" /></a>
 		</div>
 		<div id="links">
 			<paypal-donate />
@@ -49,11 +52,20 @@
 	justify-content: center;
 	flex-wrap: wrap;
 	font-family: 'tf2build';
+	align-items: center;
 	width: 100%;
 
-	span {
-		width: 100%;
+	img {
+		max-height: 80px;
+	}
+
+	div {
 		text-align: center;
+	}
+
+	#header-text {
+		width: auto;
+		flex-basis: auto;
 	}
 }
 

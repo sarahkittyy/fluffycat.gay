@@ -2,11 +2,14 @@
 	<div class="body-header">
 		<div>
 			<div id="header">
-				<div id="welcome" class="font-tf2build">haiiiii ^_^ hi!! hiiiiii &lt;3 haiiiiii hii :3 </div>
-				<div id="join" class="font-tf2build">
-					Join: <a class="rainbow-text" href="steam://connect/tf2.fluffycat.gay">tf2.fluffycat.gay</a>
-					Alt: <a class="rainbow-text" href="steam://connect/tf3.fluffycat.gay">tf3.fluffycat.gay</a>
+				<div id="header-text">
+					<div id="welcome" class="font-tf2build">haiiiii ^_^ hi!! hiiiiii &lt;3 haiiiiii hii :3 </div>
+					<div id="join" class="font-tf2build">
+						Join: <a class="rainbow-text" href="steam://connect/tf2.fluffycat.gay">tf2.fluffycat.gay</a>
+						Alt: <a class="rainbow-text" href="steam://connect/tf3.fluffycat.gay">tf3.fluffycat.gay</a>
+					</div>
 				</div>
+				<a href="/donate" ><img src="/img/bigpaws.gif" /></a>
 			</div>
 			<img src="/img/best_viewed.gif" style="width: 200px; float: right" />
 			<div id="rules">
@@ -40,10 +43,21 @@
 	flex-wrap: wrap;
 	text-align: center;
 	justify-content: center;
+	align-items: center;
 
-	* { 
-		flex-basis: 100%;
+	img {
+		max-height: 100px;
 	}
+
+	* {
+		padding-left: 8px;
+		padding-right: 8px;
+	}
+}
+
+#header-text {
+	width: auto;
+	flex-basis: auto;
 }
 
 #welcome {
