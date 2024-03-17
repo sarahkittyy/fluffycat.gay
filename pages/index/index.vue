@@ -9,7 +9,6 @@
 						Alt: <a class="rainbow-text" href="steam://connect/tf3.fluffycat.gay">tf3.fluffycat.gay</a>
 					</div>
 				</div>
-				<a href="/donate" ><img src="/img/bigpaws.gif" /></a>
 			</div>
 			<img src="/img/best_viewed.gif" style="width: 200px; float: right" />
 			<div id="rules">
@@ -34,6 +33,7 @@
 		</div>
 		<discord-widget />
 		<img src="/img/plap.gif" />
+		<a href="/donate" ><img src="/img/bigpaws.gif" /></a>
 	</div>
 </template>
 <style lang="scss" scoped>
